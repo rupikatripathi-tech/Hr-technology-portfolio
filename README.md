@@ -1,6 +1,6 @@
 # Hi, I'm Rupika 👋
 
-### HR Technology | Workday HCM | UiPath Automation | Power BI
+### HR Technology | HCM | UiPath Automation | Power BI
 
 Welcome to my HR Technology portfolio.
 
